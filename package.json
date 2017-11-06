@@ -1,0 +1,16 @@
+{
+  "name": "introduction-express",
+  "version": "1.0.0",
+  "description": "App from Web Development with Node and Express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Morais",
+  "license": "ISC"
+}
